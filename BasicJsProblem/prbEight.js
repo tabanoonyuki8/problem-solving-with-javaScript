@@ -1,3 +1,12 @@
+//array math min & error handaling
+
+
+
+
+
+
+
+
 function sortMaker(arr) {
 
 

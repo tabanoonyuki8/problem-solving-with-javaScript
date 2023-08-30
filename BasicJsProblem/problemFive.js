@@ -1,3 +1,5 @@
+//gems daimonds calculation
+
 function gemsTODaimond(a,b,c){
 let first=a*21;
 let second=b*32;

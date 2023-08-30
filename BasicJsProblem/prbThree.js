@@ -1,3 +1,5 @@
+
+//if number smaller then 7 then given number else square
 function isLGSeven(number){
 let abs=number-7;
 if(abs<7){

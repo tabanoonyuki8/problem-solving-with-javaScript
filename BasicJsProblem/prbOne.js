@@ -1,3 +1,6 @@
+
+//function using
+
 function mindGame(number){
 
 let multi=number*3;

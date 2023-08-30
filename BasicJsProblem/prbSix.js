@@ -1,3 +1,8 @@
+//cude number+error handaling
+
+
+
+
 function cubeNumber(number) {
 if(typeof number !=="number"){
     return "please give integer number"

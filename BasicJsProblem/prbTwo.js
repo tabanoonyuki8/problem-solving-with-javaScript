@@ -8,7 +8,7 @@
 
 
 
-
+//even odd number check using function
 
 
 function evenOdd(number){

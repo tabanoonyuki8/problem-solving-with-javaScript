@@ -1,3 +1,6 @@
+//finding bad date with array using function
+
+
 function findingBadDate(arr){
     let count=0;
 for(let i=0; i<arr.length;i++){
